@@ -87,5 +87,8 @@ client.on("messageCreate", async (message) => {
 });
 
 
-client.login("MTMzNDIyOTU4NjA0MDMyNDEyNg.GBctNT._G77lsfJKgXavUXEzwM_B3NyZJ9y4ruylyjG38");
+client.login("tokon");
+
+
+
 
