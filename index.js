@@ -23,7 +23,7 @@ const distube = new DisTube(client, {
 });
 
 client.on("ready", () => {
-  console.log(`✅ Logged in as ${client.user.tag}`);
+  console.log(`𝙢𝙚𝙧𝙘𝙪𝙧𝙮𝙮 ${client.user.tag}`);
 });
 
 client.on("messageCreate", async (message) => {
